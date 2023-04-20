@@ -1,0 +1,68 @@
+"""
+-------------------------------------------------------
+Lab 7  Testing
+-------------------------------------------------------
+Author:  Jayprakash Pathak
+ID:      169018920
+Email:   path8920@mylaurier.ca
+Version: 2022-11-04
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+[1, 2, 0, 4, 5, 3]
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+The number of uppercase letters in the file: 18
+The number of lowercase letters in the file: 48
+The number of digits in the file: 36
+The number of whitespace characters in the file: 35
+The number of remaining characters in the file: 30
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+String: It was a really, really, big assignment.
+Sub: real
+9
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter year: 2004
+True
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+var : True
+var2 : True
+2var : False
+var? : False
+camelCase : True
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+[[0, 2, 4, 6, 8], [1, 3, 5, 7, 9]]
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+[[114, 160, 60, 27], [74, 97, 73, 14], [119, 157, 112, 23]]
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Word: car
+Pig-Latin: arcay
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+IT APPEARS THAT ONTARIO'S POINT PELEE NATIONAL PARK HAS LOST ITS POINT. THE SOUTHERNMOST 
+TIP OF CANADA IS IN THE PARK, NEAR THE TOWN OF LEAMINGTON. THERE HAVE ALWAYS BEEN SEVERAL 
+HUNDRED METRES OF SAND JUTTING OUT FROM THE MAINLAND. BUT PARK OFFICIALS SAY RECENT HIGH 
+WINDS HAVE WASHED AWAY THE SAND POINT AND ALL THAT REMAINS IS A PLATFORM. THE PARK ADVERTISES 
+ITSELF AS THE SOUTHERNMOST TIP OF CANADA'S MAINLAND, AT THE SAME LATITUDE AS NORTHERN 
+CALIFORNIA, AND ATTRACTS MORE THAN 400,000 VISITORS PER YEAR. A PARK OFFICIAL SAYS A NO 
+SWIMMING SIGN THAT USED TO MARK THE SOUTHERNMOST POINT WASHED UP ON A BEACH IN MADISON, OHIO, 
+ABOUT 100 KILOMETRES ACROSS LAKE ERIE. OFFICIALS SAY THE SAND PATTERNS AT THE POINT CHANGE 
+FREQUENTLY, BUT THIS IS THE FIRST TIME THE POINT HAS DISAPPEARED COMPLETELY.
+-------------------------------------------------------

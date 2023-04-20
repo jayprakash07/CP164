@@ -1,0 +1,132 @@
+"""
+-------------------------------------------------------
+Labs/Assignments Testing
+-------------------------------------------------------
+Author:  Jayprakash Pathak
+ID:      169018920
+Email:   path8920@mylaurier.ca
+Version: 2023-01-28
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Movie name : Movie 1 ,  Movie year : 2004
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Search for movies by rating: 6.7
+Movies by Rating: 6.7
+--------------------------------------------------------------------------------
+Title:    Dellamorte Dellamore
+Year:     1994
+Director: Michele Soavi
+Rating:   7.2
+Genres:   romance, comedy, zombie, horror
+Title:    Dark City
+Year:     1998
+Director: Alex Proyas
+Rating:   7.8
+Genres:   science fiction
+Title:    Zulu
+Year:     1964
+Director: Cy Endfield
+Rating:   7.8
+Genres:   war
+Title:    I Am Legend
+Year:     2007
+Director: Francis Lawrence
+Rating:   7.1
+Genres:   science fiction, action
+Title:    Last Man On Earth, The
+Year:     1964
+Director: Ubaldo Ragona
+Rating:   6.9
+Genres:   science fiction
+Title:    Alphaville
+Year:     1965
+Director: Jean-Luc Godard
+Rating:   7.1
+Genres:   science fiction, comedy
+Title:    Stardust
+Year:     2007
+Director: Matthew Vaughn
+Rating:   7.7
+Genres:   fantasy, comedy
+Title:    Juno
+Year:     2007
+Director: Jason Reitman
+Rating:   7.7
+Genres:   romance, comedy
+Title:    Darjeeling Limited, The
+Year:     2007
+Director: Wes Anderson
+Rating:   7.1
+Genres:   comedy
+Title:    Broken Flowers
+Year:     2005
+Director: Jim Jarmusch
+Rating:   7.2
+Genres:   romance, comedy
+Title:    Star Wars: Episode IV - A New Hope
+Year:     1977
+Director: George Lucas
+Rating:   8.7
+Genres:   science fiction, action
+Title:    Horror of Dracula
+Year:     1958
+Director: Terence Fisher
+Rating:   7.4
+Genres:   horror
+Title:    Jason and the Argonauts
+Year:     1963
+Director: Don Chaffey
+Rating:   7.4
+Genres:   fantasy, action
+Title:    Wrong Box, The
+Year:     1966
+Director: Bryan Forbes
+Rating:   7.0
+Genres:   comedy
+Title:    Finding Dory
+Year:     2016
+Director: Andrew Stanton, Angus MacLane
+Rating:   7.5
+Genres:   comedy
+Title:    Z
+Year:     1969
+Director: Costa-Gavras
+Rating:   8.2
+Genres:   drama
+Title:    Wonder Woman
+Year:     2017
+Director: Patty Jenkins
+Rating:   8.1
+Genres:   fantasy, action
+Title:    Zulu
+Year:     2013
+Director: Jerome Salle
+Rating:   6.7
+Genres:   drama
+--------------------------------------------------------------------------------
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Movie2
+Movie5
+Movie6
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Movies by Genre code: [3, 4, 5, 8]
+
+
+Title:    Dellamorte Dellamore
+Year:     1994
+Director: Michele Soavi
+Rating:   7.2
+Genres:   romance, comedy, zombie, horror
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+[6, 3, 2, 3, 8, 1, 5, 0, 4, 1, 0]
